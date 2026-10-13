@@ -1,7 +1,7 @@
 # Hackathon_Oct_HinakoTerado
 
 古橋研究室 2026年10月ゼミ内ハッカソン（FOSS4G Hiroshima / SotM Asia OSAKA 振り返りハッカソン）の成果リポジトリです。
-国際会議で知った写真共有アプリ **Fotoshi** を実際に試用したレポートと、**Claude Code** によるGitHub操作の試行をまとめています。
+先生に紹介していただいた写真共有アプリ **Fotoshi** を実際に試用したレポートと、**Claude Code** によるGitHub操作の試行をまとめています。
 
 - 関連記事（Medium）：[青キャンからさがキャンへ 45kmの道のりを記録（途中まで）](https://medium.com/furuhashilab/%E9%9D%92%E3%82%AD%E3%83%A3%E3%83%B3%E3%81%8B%E3%82%89%E3%81%95%E3%81%8C%E3%82%AD%E3%83%A3%E3%83%B3%E3%81%B8-45km%E3%81%AE%E9%81%93%E3%81%AE%E3%82%8A%E3%82%92%E8%A8%98%E9%8C%B2-%E9%80%94%E4%B8%AD%E3%81%BE%E3%81%A7-5c7ff021ba83)
 - 元になったIssue：[#1](../../issues/1) / [#2](../../issues/2) / [#3](../../issues/3)
@@ -12,7 +12,7 @@
 
 ### 1.1 背景
 - 今回のゼミ内ハッカソンのテーマは「FOSS4G Hiroshima / SotM Asia OSAKA 振り返りハッカソン」
-- 国際会議で知ったツールの中から、写真共有アプリ「Fotoshi」を題材に選んだ
+- 国際会議での新たな知見というよりは、先生が紹介していた写真共有アプリ「Fotoshi」を題材に選んだ
   - Fotoshiは Android ユーザー向けにβテストユーザーを募集中だった
   - 自分がAndroidユーザーで都合がよかった
 
